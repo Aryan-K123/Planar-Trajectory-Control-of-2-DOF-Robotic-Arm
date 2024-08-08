@@ -7,4 +7,4 @@ It is then imported into Simulink using *Simscape Multibody*
 
 In Simulink, inputs can be given to joints individually
 
-Using simple *Inverse Kinematics* and 2 PID blocks one for each joint a closed loop control is designed which takes parametric equations as trajectory input and actuates each joint individually.
+Using simple *Inverse Kinematics* and 2 PID blocks one for each joint a closed loop control is designed which takes parametric equations as trajectory input and actuates each joint individually and output trajectory is plotted.
